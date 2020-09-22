@@ -2,23 +2,18 @@
 
 ## Project setup
 ```
+Install nodeJS : https://nodejs.org/fr/download/
+Install yarn : https://classic.yarnpkg.com/fr/docs/install/#windows-stable
+Install vue CLI : npm install -g @vue/cli
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Launch App
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+yarn serve
 ```
 
-### Lints and fixes files
+### Use the App
 ```
-npm run lint
+Simply type the city name and you'll get the weather information about it.
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
