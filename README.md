@@ -1,5 +1,5 @@
 # vue-weather
-![alt text](https://ibb.co/f9VVXQ1)
+![alt text](https://www.zupimages.net/up/20/39/qcjv.png)
 ## Project setup
 ```
 Install nodeJS : https://nodejs.org/fr/download/
